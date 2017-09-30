@@ -7,3 +7,4 @@ switch (irandom(2))
    }
    
    //test hello?
+   //test 2 hi, how are you?
